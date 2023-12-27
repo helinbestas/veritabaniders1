@@ -1,0 +1,7 @@
+C:\Users\helin\source\repos\dortislem\dortislem\bin\Debug\dortislem.exe.config
+C:\Users\helin\source\repos\dortislem\dortislem\bin\Debug\dortislem.exe
+C:\Users\helin\source\repos\dortislem\dortislem\bin\Debug\dortislem.pdb
+C:\Users\helin\source\repos\dortislem\dortislem\obj\Debug\dortislem.csproj.AssemblyReference.cache
+C:\Users\helin\source\repos\dortislem\dortislem\obj\Debug\dortislem.csproj.CoreCompileInputs.cache
+C:\Users\helin\source\repos\dortislem\dortislem\obj\Debug\dortislem.exe
+C:\Users\helin\source\repos\dortislem\dortislem\obj\Debug\dortislem.pdb
